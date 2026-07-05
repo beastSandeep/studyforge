@@ -2,10 +2,10 @@ import { StudyForgeConfig } from "./src/types.js";
 
 const config: StudyForgeConfig = {
   theme: "light",
-  title: "Metals and Non-Metals",
+  title: "Carbon and its Compounds",
   subtitle: "Class 10 Science Series",
   author: "Sandeep Singh / Sandeep Institution",
-  headerText: "Custom Premium Chemistry Study Notes",
+  headerText: "Study Notes",
   colors: {
     primary: "#1e3a8a", // Deep Royal Blue
     secondary: "#4f46e5", // Vibrant Indigo
